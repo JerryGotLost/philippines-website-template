@@ -24,10 +24,10 @@ This is a website I created for my school. Use at your own will and risk. Scroll
 <div id="intro">
 <h1>This is the<br />
 Philippines <a href="https://dfa.gov.ph/dfa-news/dfa-releasesupdate/29139-philippines-raises-alarm-on-impacts-of-sea-level-rise">Sea Level Rise Crisis</a> </h1>
-<p>A legitamate, documentary website made by <a href="https://twitter.com/ProbJerryLOL">@ProbJerryLOL</a> for a 6th grade project.<br />
-						(Why am I doing this again?).</p>
-						<ul class="actions">
-							<li><a href="#header" class="button icon solid solo fa-arrow-down scrolly">Continue</a></li>
+<p>A legitamate, documentary website made by <a href="https://twitter.com/ProbJerryLOL">@ProbJerryLOL</a> for a 6th grade project.<br /> <---Edit the <p></p>--->
+(Why am I doing this again?).</p>
+<ul class="actions">
+<li><a href="#header" class="button icon solid solo fa-arrow-down scrolly">Continue</a></li>
 
 ```
 Just uh edit that ez.
