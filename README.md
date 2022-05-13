@@ -1,16 +1,22 @@
-# Philippines Website Template
+# Jerry's Philippines Website Template
+This is a website I created for my school. Use at your own will and risk. Scroll down and learn how you can use this template to create your own sick website.
 
-Welcome to the README file of this website, if you have any questions, please DM me on Discord.
 
+![Logo](https://github.com/JerryGotLost/private-image-host/blob/main/Picture1.png?raw=false)
+
+
+## Table of Contents
+
+- Setup
+- FAQ
 ## Setup
-
-Use Visual Studio Code to edit these files or you ain't cool.... Joking, use whatever you want. :)
-
-1. First, fork the documents on the top right of your screen.
-2. Then, edit whatever you want.
-3. Go to [Netlify.com](https://app.netlify.com/) and signup.
-4. Link up your github project and uh yeah...
-5. Have fun
+1. Firstly, fork this github repository by clicking the "Fork" button right next to the "Watch" or "Unwatch" button.
+2. Next, go to [Netlify](https://app.netlify.com/) and make sure to log in.
+3. Click on "Team Overview" and click on "Add New Site"
+4. Click on the Github option.
+5. Go to the bottom and follow the directions to configure the Netlify Application.
+6. Go to the bottom and click deploy.
+7. You are now done! If you ran errors look at the FAQ or DM me on Discord.
 
 ## Usage
 
@@ -25,3 +31,13 @@ Use Visual Studio Code to edit these files or you ain't cool.... Joking, use wha
 
 ```
 Just uh edit that ez.
+
+## FAQ
+#### Why does my site say broken link?
+This is because you have:
+- A folder too many, your files should be looking like = example folder example folder index.html example.html. These shouldn't be in a folder.
+- You renamed the .html files and forgot to change the links.
+#### DM me on Discord for more questions :D
+## Authors
+- [@JerryGotLost](https://github.com/JerryGotLost/)
+
